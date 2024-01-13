@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisha Kumari</h1>
-<h3 align="center">A passionate Open source developer from India</h3>
+<h3 align="center">A passionate Software Engineer developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nisha2k21" alt="nisha2k21" /></a> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Drona**
 
-- 🌱 I’m currently learning **Advance JAVA, Data Structure & Alog.**
+- 🌱 I’m currently learning **Machine Learning , Data Science**
 
-- 👯 I’m looking to collaborate on **Student Learning Module System**
+- 👯 I’m looking to collaborate on **Machine Learning Project**
 
 - 👨‍💻 All of my projects are available at [https://developers.google.com/profile/u/100017888410499056239](https://developers.google.com/profile/u/100017888410499056239)
 
-- 💬 Ask me about **Web-Development, Core Java and Data Analysis**
+- 💬 Ask me about **Web-Development, DSA, Python and Data Analysis**
 
 - 📫 How to reach me **nisha2k21@gmail.com**
 
