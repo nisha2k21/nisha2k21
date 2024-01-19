@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning , Data Science**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 👯 I’m looking to collaborate on **Machine Learning Project** 
 
 - 👨‍💻 All of my projects are available at [https://developers.google.com/profile/u/100017888410499056239](https://developers.google.com/profile/u/100017888410499056239)
 
